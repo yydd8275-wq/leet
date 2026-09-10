@@ -5,6 +5,12 @@ A collection of my coding solutions and problem-solving practice.
 
 ## LeetCode Topics
 
+### Hash Table
+
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/3-Longest-Substring-Without-Repeating-Characters.java) | Medium | Java |
+
 ### Linked List
 
 | Number | Problem Name | Difficulty | Language |
