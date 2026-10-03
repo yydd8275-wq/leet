@@ -12,7 +12,7 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
 
-        int carry =//fresh 0;
+        int carry = 0;
  //rftttg
         while (l1 != null || l2 != null || carry != 0) {
 
