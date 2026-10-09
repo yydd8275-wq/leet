@@ -5,13 +5,28 @@ A collection of my coding solutions and problem-solving practice.
 
 ## LeetCode Topics
 
+### Array
 
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| 1 | [Two Sum](./Array/1-Two-Sum.java) | Easy | Java |
+| 0014 | [Longest Common Prefix](./Array/14-Longest-Common-Prefix.java) | Easy | Java |
+| 0026 | [Remove Duplicates from Sorted Array](./Array/26-Remove-Duplicates-From-Sorted-Array.java) | Easy | Java |
+| 0027 | [Remove Element](./Array/27-Remove-Element.java) | Easy | java |
+| 0031 | [Next Permutation](./Array/31-Next-Permutation.java) | Medium | Java |
+| 0059 | [Spiral Matrix II](./Array/59-Spiral-Matrix-Ii.java) | Medium | java |
 
 ### Backtracking
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
 | 0017 | [Letter Combinations of a Phone Number](./Hash%20Table/17-Letter-Combinations-Of-A-Phone-Number.java) | Medium | java |
+
+### Batch Sync
+
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| — | [Push All Files](./6%20files%20pushed%20(Interrupted)) | Mixed | Multiple |
 
 ### Bit Manipulation
 
@@ -25,12 +40,6 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | 0028 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/28-Find-The-Index-Of-The-First-Occurrence-In-A-String.java) | Easy | java |
 
-### Counting
-
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 0594 | [Longest Harmonious Subsequence](./Array/594-Longest-Harmonious-Subsequence.java) | Easy | Java |
-
 ### Divide and Conquer
 
 | Number | Problem Name | Difficulty | Language |
@@ -43,10 +52,14 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](./Two%20Pointers/5-Longest-Palindromic-Substring.java) | Medium | java |
 | 0070 | [Climbing Stairs](./Math/70-Climbing-Stairs.java) | Easy | java |
-| 0118 | [Pascal's Triangle](./Array/118-Pascal-S-Triangle.java) | Easy | java |
-| 0119 | [Pascal's Triangle II](./Array/119-Pascal-S-Triangle-Ii.java) | Easy | java |
 
+### Hash Table
 
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| 1 | [Two Sum](./Array/1-Two-Sum.java) | Easy | Java |
+| 0003 | [Longest Substring Without Repeating Characters](./Hash%20Table/3-Longest-Substring-Without-Repeating-Characters.java) | Medium | java |
+| 0017 | [Letter Combinations of a Phone Number](./Hash%20Table/17-Letter-Combinations-Of-A-Phone-Number.java) | Medium | java |
 
 ### Heap (Priority Queue)
 
@@ -120,14 +133,6 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
 | 0003 | [Longest Substring Without Repeating Characters](./Hash%20Table/3-Longest-Substring-Without-Repeating-Characters.java) | Medium | java |
-| 0219 | [Contains Duplicate II](./Array/219-Contains-Duplicate-Ii.java) | Easy | Java |
-| 0594 | [Longest Harmonious Subsequence](./Array/594-Longest-Harmonious-Subsequence.java) | Easy | Java |
-
-### Sorting
-
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 0594 | [Longest Harmonious Subsequence](./Array/594-Longest-Harmonious-Subsequence.java) | Easy | Java |
 
 ### String
 
