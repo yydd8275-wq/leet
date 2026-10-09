@@ -59,15 +59,7 @@ A collection of my coding solutions and problem-solving practice.
 | 0118 | [Pascal's Triangle](./Array/118-Pascal-S-Triangle.java) | Easy | java |
 | 0119 | [Pascal's Triangle II](./Array/119-Pascal-S-Triangle-Ii.java) | Easy | java |
 
-### Hash Table
 
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 0001 | [Two Sum](./Array/1-Two-Sum.java) | Easy | Java |
-| 0003 | [Longest Substring Without Repeating Characters](./Hash%20Table/3-Longest-Substring-Without-Repeating-Characters.java) | Medium | java |
-| 0017 | [Letter Combinations of a Phone Number](./Hash%20Table/17-Letter-Combinations-Of-A-Phone-Number.java) | Medium | java |
-| 0219 | [Contains Duplicate II](./Array/219-Contains-Duplicate-Ii.java) | Easy | Java |
-| 0594 | [Longest Harmonious Subsequence](./Array/594-Longest-Harmonious-Subsequence.java) | Easy | Java |
 
 ### Heap (Priority Queue)
 
